@@ -1,1 +1,1 @@
-# Url-sniper
+Discordan Bilgi öğrenebilirsiniz 3> discord.gg/101m
