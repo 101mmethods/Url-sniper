@@ -110,6 +110,6 @@ class Sniper:
         print("101m Method Url Sniper")
 
 # Bu kod 101m Method tarafından hazırlanılmıştır:
-print("Bu kod, [Adınız] tarafından yazılmıştır.")
+print("Bu kod, 101m Method tarafından yazılmıştır.")
 
 Sniper().start()
